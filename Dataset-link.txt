@@ -1,0 +1,7 @@
+##########
+Link in drive:
+https://drive.google.com/file/d/1Gk7M0LcYLu8hlBRnAZyb5rm5GscvqROS/view?usp=sharing
+
+########
+Link from Kaggle:
+https://www.kaggle.com/datasets/kazanova/sentiment140

@@ -1,0 +1,8 @@
+########
+Glove link in drive:
+https://drive.google.com/file/d/1TjMmNiWKzV2QhpNZ9YYUFicJGHzMGdfe/view?usp=sharing
+
+######
+Glove link from site:
+https://nlp.stanford.edu/projects/glove/
+-> glove.6B.300d.txt
